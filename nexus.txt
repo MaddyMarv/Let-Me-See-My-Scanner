@@ -1,7 +1,7 @@
 Fades or hides distracting HUD elements (crosshair, stamina bar, buffs) while using the Auspex scanner.
 
-[b]Options:[/b]
-
+[b]Mod Settings / Commands:[/b]
+[spoiler]
 [b]General[/b]
 - Transparency Amount
 - Smooth Fade
@@ -11,6 +11,7 @@ Fades or hides distracting HUD elements (crosshair, stamina bar, buffs) while us
 [b]Visibility[/b]
 - Hide Vanilla Elements (Crosshair, Dodge Counter, Stamina Bar, Ability Icons, Buff Bars)
 - Hide Modded Elements (Crosshair HUD, Dodge Count (Numeric UI), RingHud, Flux HUD, Ability Timer)
+[/spoiler]
 
 [b]Links:[/b]
 [url=https://github.com/MaddyMarv/Let-me-see-my-scanner-Auspex-]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
