@@ -7,10 +7,10 @@ Fades or hides distracting HUD elements (crosshair, stamina bar, buffs) while us
 <summary><b>Mod Settings / Commands</b></summary>
 
 **General**
-- Transparency Amount
-- Smooth Fade
-- Fade Duration
-- Caption Opacity While Scanning
+- Transparency amount
+- Smooth fade
+- Fade duration
+- Caption opacity while scanning
 
 **Visibility**
 - Hide Vanilla Elements (Crosshair, Dodge Counter, Stamina Bar, Ability Icons, Buff Bars)
