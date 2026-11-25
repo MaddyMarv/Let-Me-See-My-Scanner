@@ -17,4 +17,4 @@ Fades or hides distracting HUD elements (crosshair, stamina bar, buffs) while us
 - Hide Modded Elements (Crosshair HUD, Dodge Count (Numeric UI), RingHud, Flux HUD, Ability Timer)
 </details>
 
-🔗 **Links:** [Source Code](https://github.com/MaddyMarv/Let-me-see-my-scanner-Auspex-) | [Nexus Mods Profile](https://www.nexusmods.com/profile/indicabunny) | [Support Me on Ko-fi](https://ko-fi.com/indicabunny)
+🔗 **Links:** [Source Code](https://github.com/MaddyMarv/Let-Me-See-My-Scanner) | [Nexus Mods Profile](https://www.nexusmods.com/profile/indicabunny) | [Support Me on Ko-fi](https://ko-fi.com/indicabunny)
